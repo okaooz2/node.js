@@ -1,3 +1,5 @@
+var fs = require("fs");
+
 //路由选择函数
 function route(obj) {
     console.log("执行路由操作");
